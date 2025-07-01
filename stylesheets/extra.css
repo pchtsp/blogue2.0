@@ -1,0 +1,15 @@
+/* Custom styles for MkDocs Material */
+
+/* Example: Add padding to main content */
+.md-main__inner {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+/* Example: Style for images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* You can add more custom styles here */ 
