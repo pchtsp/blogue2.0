@@ -1,0 +1,26 @@
+# Python virtual environment
+.venv/
+
+# MkDocs build output
+site/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Python cache
+__pycache__/
+*.pyc
+
+# MkDocs overrides placeholder
+# (keep .gitkeep, ignore other temp files)
+overrides/*
+!overrides/.gitkeep
+
+docs/img/*
+!docs/img/.gitkeep
+
+# Ignore log files
+*.log 
